@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CourseWork">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CourseWork-master/CourseWork.zip!/" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries/openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/.idea/libraries/openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib" recursive="false" />
+  </library>
+</component>
